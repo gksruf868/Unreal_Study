@@ -36,7 +36,7 @@ https://dev.epicgames.com/documentation/ko-kr/unreal-engine/physically-based-mat
 -피직스 시뮬레이트 기능올 물리 엔진 적용 가능
 -프로젝트 세팅의 콜리전 프로파일 옵션들을 통해 별도의 콜리전 프리셋을 만들 수 있음
 
-
+-텍스처 파일 같은 용량이 많은 파일들은 크기 줄이기 기능으로 크기 줄이기 가능
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
@@ -54,3 +54,8 @@ https://dev.epicgames.com/documentation/ko-kr/unreal-engine/physically-based-mat
 
 <기타>
 https://github.com/83wontae/digitaltwin.git -> 교사 깃 허브 주소
+
+
+
+
+타임 라인의 조정으로 원하는 움직임을 만들 수가 있다.
